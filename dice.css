@@ -1,0 +1,314 @@
+
+
+#box1{
+    width: 300px;
+    height: 300px;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(47, 148, 148);
+    position: absolute;
+    top: 20%;
+    left: 40%;
+    gap: 18%;
+    transition: all 0.3s ease-in-out;
+    box-shadow: 10px 10px 10px rgba(92, 46, 166, 0.619);
+}
+#box1:hover{
+    background-color: rgb(30, 120, 120);
+    box-shadow: 0px 0px 20px rgba(0, 255, 255, 0.8);
+    transform: scale(1.05);
+}
+
+
+
+#box1 div{
+
+    border-radius:50% ;
+    width: 40px;
+    height: 40px;
+    background-color: burlywood;
+    transition: all 0.3s ease-in-out;
+    box-shadow: 0px 0px 10px rgba(255, 165, 0, 0.5);
+
+}
+#box1 div:hover{
+    background-color: orange;
+    box-shadow: 0px 0px 15px rgba(255, 165, 0, 0.9);
+    transform: scale(1.2);
+}
+
+
+
+#box2{
+    width: 300px;
+    height: 300px;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(47, 148, 148);
+    position: absolute;
+    top: 20%;
+    left: 40%;
+    gap: 18%;
+    transition: all 0.3s ease-in-out;
+    box-shadow: 10px 10px 10px rgba(92, 46, 166, 0.619);
+
+}
+#box2:hover{
+    background-color: rgb(30, 120, 120);
+    box-shadow: 0px 0px 20px rgba(0, 255, 255, 0.8);
+    transform: scale(1.05);
+}
+
+
+#box2 div{
+
+    border-radius:50% ;
+    width: 40px;
+    height: 40px;
+    background-color: burlywood;
+    transition: all 0.3s ease-in-out;
+    box-shadow: 0px 0px 10px rgba(255, 165, 0, 0.5);
+}
+#box2 div:hover{
+    background-color: orange;
+    box-shadow: 0px 0px 15px rgba(255, 165, 0, 0.9);
+    transform: scale(1.2);
+}
+
+
+
+
+#box3{
+    width: 300px;
+    height: 300px;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(47, 148, 148);
+    position: absolute;
+    top: 20%;
+    gap: 18%;
+    left: 40%;
+    transition: all 0.3s ease-in-out;
+    box-shadow: 10px 10px 10px rgba(92, 46, 166, 0.619);
+}
+#box3:hover{
+    background-color: rgb(30, 120, 120);
+    box-shadow: 0px 0px 20px rgba(0, 255, 255, 0.8);
+    transform: scale(1.05);
+}
+
+#box3 div{
+
+    border-radius:50% ;
+    width: 40px;
+    height: 40px;
+    background-color: burlywood;
+    transition: all 0.3s ease-in-out;
+    box-shadow: 0px 0px 10px rgba(255, 165, 0, 0.5);
+
+}
+#box3 div:hover{
+    background-color: orange;
+    box-shadow: 0px 0px 15px rgba(255, 165, 0, 0.9);
+    transform: scale(1.2);
+}
+
+
+
+#box4{
+    width: 300px;
+    height: 300px;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(47, 148, 148);
+    position: absolute;
+    top: 20%;
+    gap: 18%;
+    left: 40%;
+    display: grid;
+    grid-template-columns: auto auto;
+    transition: all 0.3s ease-in-out;
+    box-shadow: 10px 10px 10px rgba(92, 46, 166, 0.619);
+}
+#box4:hover{
+    background-color: rgb(30, 120, 120);
+    box-shadow: 0px 0px 20px rgba(0, 255, 255, 0.8);
+    transform: scale(1.05);
+}
+#box4 div{
+
+    border-radius:50% ;
+    width: 40px;
+    height: 40px;
+    background-color: burlywood;
+    transition: all 0.3s ease-in-out;
+    box-shadow: 0px 0px 10px rgba(255, 165, 0, 0.5);
+
+}
+#box4 div:hover{
+    background-color: orange;
+    box-shadow: 0px 0px 15px rgba(255, 165, 0, 0.9);
+    transform: scale(1.2);
+}
+
+
+
+#box5{
+    width: 300px;
+    height: 300px;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(47, 148, 148);
+    position: absolute;
+    top: 20%;
+    gap: 18%;
+    left: 40%;
+    display: grid;
+    grid-template-columns: auto auto;
+    transition: all 0.3s ease-in-out;
+    box-shadow: 10px 10px 10px rgba(92, 46, 166, 0.619);
+}
+#box5:hover{
+    background-color: rgb(30, 120, 120);
+    box-shadow: 0px 0px 20px rgba(0, 255, 255, 0.8);
+    transform: scale(1.05);
+}
+#box5 div{
+
+    border-radius:50% ;
+    width: 40px;
+    height: 40px;
+    background-color: burlywood;
+    transition: all 0.3s ease-in-out;
+    box-shadow: 0px 0px 10px rgba(255, 165, 0, 0.5);
+
+
+}
+#box5 div:hover{
+    background-color: orange;
+    box-shadow: 0px 0px 15px rgba(255, 165, 0, 0.9);
+    transform: scale(1.2);
+}
+
+.extra{
+    margin-top: 20%;   
+    left: 5%;
+    transition: all 0.3s ease-in-out;
+    box-shadow: 0px 0px 10px rgba(255, 165, 0, 0.5)
+}
+.extra:hover{
+    background-color: orange;
+    box-shadow: 0px 0px 15px rgba(255, 165, 0, 0.9);
+    transform: scale(1.2);   
+}
+
+
+
+#box6{
+    width: 300px;
+    height: 300px;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(47, 148, 148);
+    position: absolute;
+    top: 20%;
+    gap: 18%;
+    left: 40%;
+    display: grid;
+    grid-template-columns: auto auto;
+    transition: all 0.3s ease-in-out;
+    box-shadow: 10px 10px 10px rgba(92, 46, 166, 0.619);
+}
+#box6:hover{
+    background-color: rgb(30, 120, 120);
+    box-shadow: 0px 0px 20px rgba(0, 255, 255, 0.8);
+    transform: scale(1.05);
+}
+#box6 div{
+
+    border-radius:50% ;
+    width: 40px;
+    height: 40px;
+    background-color: burlywood;
+    transition: all 0.3s ease-in-out;
+    box-shadow: 0px 0px 10px rgba(255, 165, 0, 0.5);
+
+}
+#box6 div:hover{
+    background-color: orange;
+    box-shadow: 0px 0px 15px rgba(255, 165, 0, 0.9);
+    transform: scale(1.2);
+}
+
+
+
+#btn {
+    padding: 10px 20px;
+    position: absolute;
+    left: 45%;
+    width: 10vw;
+    height: 10vh;
+    top: 72%;
+    background-color: brown;
+    color: white;
+    font-size: larger;
+    border: none;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+    box-shadow: 0px 0px 10px rgba(255, 0, 0, 0.5);
+}
+#btn:hover {
+    background-color: darkred;
+    box-shadow: 0px 0px 15px rgba(255, 0, 0, 0.8);
+    transform: scale(1.1);
+}
+
+/* ---------------------------------------------------------------------------------------- */
+
+@media(max-width: 450px) {
+
+    body {
+        overflow: hidden;
+    }
+
+    #box1 {
+               margin-left: -6rem;
+    }
+
+    #box2{
+        margin-left: -6rem;
+    }
+    #box3{
+        margin-left: -6rem;
+    }
+    #box4{
+        margin-left: -6rem;
+    }
+    #box5{
+        margin-left: -6rem;
+    }
+    #box6{
+        margin-left: -6rem;
+    }
+
+
+    #btn {
+  
+        top: 80%;
+        width: 30vw;
+      margin-left: -10%;
+    } 
+
+}
