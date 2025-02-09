@@ -277,30 +277,35 @@
 
 /* ---------------------------------------------------------------------------------------- */
 
-@media(max-width: 450px) {
+@media(max-width: 452px) {
 
     body {
         overflow: hidden;
     }
 
     #box1 {
-               margin-left: -6rem;
+               margin-left: -7rem;
     }
 
     #box2{
-        margin-left: -6rem;
+        margin-left: -7rem;
     }
     #box3{
-        margin-left: -6rem;
+        margin-left: -7rem;
     }
     #box4{
-        margin-left: -6rem;
+        margin-left: -7rem;
     }
     #box5{
-        margin-left: -6rem;
+        margin-left: -7rem;
+    }
+    .extra{
+        margin: 10px;
+        top: 115px;
+        
     }
     #box6{
-        margin-left: -6rem;
+        margin-left: -7rem;
     }
 
 
