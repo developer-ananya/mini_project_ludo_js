@@ -278,13 +278,12 @@
 /* ---------------------------------------------------------------------------------------- */
 
 @media(max-width: 452px) {
-
     body {
         overflow: hidden;
     }
 
     #box1 {
-               margin-left: -7rem;
+         margin-left: -7rem;
     }
 
     #box2{
@@ -300,9 +299,12 @@
         margin-left: -7rem;
     }
     .extra{
-        margin: 10px;
-        top: 115px;
         
+            margin-top: 22%;
+            left: 80%;
+            transform: translateX(270%);
+           
+            
     }
     #box6{
         margin-left: -7rem;
